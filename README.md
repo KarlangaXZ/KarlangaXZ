@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarlangaXZ
-- 👀 I’m interested in being better at JS and Python
+- 👀 I’m interested in being better at JS
 - 🌱 I’m currently learning JavaScript
 
 <!---
