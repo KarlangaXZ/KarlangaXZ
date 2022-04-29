@@ -9,10 +9,7 @@ Tolozal(https://www.linkedin.com/in/leancro-toloza/)
 Languages and Tools
 
 <div width="300px" height="300px" background"red"></div>
-<rodexing height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET Core_Logo.svg/20px-NET_Care_logo.svg.png">
-<code> <ing height="48"
 <code><img height="48" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png"></code>
-<code><img height="48" src="https://estradawebgroup.com/ImagesUpload/MSSQLServer.png"></code>
-src="https://rm-githubusercontent.com/github/explore/868-129w7d4ef2fcalell215@felle151741494d/topics/mysql/mysql.png"></code>
+<code><img height="48" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code>
 <code><img height="48"
-<code><img height="4" src="https://rww.githubusercontent.com/github/explore/86824297d4e+2+cale821501&351/d3494d/topics/git/git.png"></code>
+<code><img height="4" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"></code>
