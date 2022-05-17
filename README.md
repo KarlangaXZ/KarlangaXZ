@@ -10,4 +10,4 @@ Languages and Tools
 <code><img height="48" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code>
 <code><img height="48"src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"></code>
 <code><img height="50" src="https://img2.freepng.es/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg"></code>
-<code><img height="65" src="https://pngset.com/images/mysql-logo-dolphin-mammal-sea-life-transparent-png-2425821.png"></code>
+<code><img height="50" src="https://pngset.com/images/mysql-logo-dolphin-mammal-sea-life-transparent-png-2425821.png"></code>
