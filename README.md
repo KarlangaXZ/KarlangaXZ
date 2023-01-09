@@ -1,12 +1,11 @@
  # "Welcome" <img src="https://media4.giphy.com/media/65ATXZgKw9tKnJua1B/giphy.gif?cid=790b761117698cbe22d9817f75a804003a144b464dc45202&rid=giphy.gif&ct=g" width="100px">
 
+Hola soy un desarrollador junior entusiasta por la misma, amante a la tecnologia y aprender cosas nueva y con ganas de reforzar mas mis conocimientos y conseguir experiencia en el area de tecnologia web, movil e ciberseguridad
+#
+Hello, I am a junior developer who is enthusiastic about it, a lover of technology and learning new things and wanting to further strengthen my knowledge and gain experience in the area of web, mobile and cybersecurity technology.
 
 #
-
 Languages and Tools
 
-<div width="300px" height="300px" background"red"></div>
-<code><img height="60" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png"></code>
-<code><img height="60" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code>
-<code><img height="60"src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"></code>
+https://cdn-icons-png.flaticon.com/512/174/174857.png
 
