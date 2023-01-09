@@ -1,6 +1,6 @@
 #
-"Welcome" 
-<img src="https://media.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.gif" width="100px">
+<h1>Welcome</h1>
+<img src="https://media.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.gif" width="200px">
 <img src="https://media.giphy.com/media/y0NFayaBeiWEU/giphy.gif" width="200px">
  
  #
