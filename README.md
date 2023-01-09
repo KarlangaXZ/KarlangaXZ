@@ -5,7 +5,7 @@ Hola soy un desarrollador junior entusiasta por la misma, amante a la tecnologia
 Hello, I am a junior developer who is enthusiastic about it, a lover of technology and learning new things and wanting to further strengthen my knowledge and gain experience in the area of web, mobile and cybersecurity technology.
 
 #
-Languages and Tools
+Contact me:
 
-<a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="100px"></a>
+<a href="https://www.linkedin.com/in/carlos-jose-linares-rodriguez-650462b0/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60px"></a>
 
