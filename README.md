@@ -7,5 +7,5 @@ Hello, I am a junior developer who is enthusiastic about it, a lover of technolo
 #
 Languages and Tools
 
-https://cdn-icons-png.flaticon.com/512/174/174857.png
+<a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="100px"></a>
 
