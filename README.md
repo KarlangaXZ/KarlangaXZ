@@ -1,6 +1,6 @@
 #
-#"Welcome" 
-<img src="https://media4.giphy.com/media/65ATXZgKw9tKnJua1B/giphy.gif?cid=790b761117698cbe22d9817f75a804003a144b464dc45202&rid=giphy.gif&ct=g" width="100px">
+"Welcome" 
+<img src="https://media.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.gif" width="100px">
 <img src="https://media.giphy.com/media/y0NFayaBeiWEU/giphy.gif" width="200px">
  
  #
@@ -16,5 +16,11 @@ Contact me:
 
 <a href="https://www.linkedin.com/in/carlos-jose-linares-rodriguez-650462b0/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60px"></a>
 
+#
+
+<img src="https://media.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif" width="100px">
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100px">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100px">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100px">
 
 
