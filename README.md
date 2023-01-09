@@ -1,8 +1,10 @@
  # "Welcome" <img src="https://media4.giphy.com/media/65ATXZgKw9tKnJua1B/giphy.gif?cid=790b761117698cbe22d9817f75a804003a144b464dc45202&rid=giphy.gif&ct=g" width="100px">
 
-Hola soy un desarrollador junior entusiasta por la misma, amante a la tecnologia y aprender cosas nueva y con ganas de reforzar mas mis conocimientos y conseguir experiencia en el area de tecnologia web, movil e ciberseguridad
-#
 Hello, I am a junior developer who is enthusiastic about it, a lover of technology and learning new things and wanting to further strengthen my knowledge and gain experience in the area of web, mobile and cybersecurity technology.
+
+#
+
+Hola soy un desarrollador junior entusiasta por la misma, amante a la tecnologia y aprender cosas nueva y con ganas de reforzar mas mis conocimientos y conseguir experiencia en el area de tecnologia web, movil e ciberseguridad.
 
 #
 Contact me:
