@@ -11,5 +11,5 @@ Contact me:
 
 <a href="https://www.linkedin.com/in/carlos-jose-linares-rodriguez-650462b0/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60px"></a>
 
-<div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/y0NFayaBeiWEU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/videogames-y0NFayaBeiWEU">via GIPHY</a></p>
 
+<img src="[https://cdn-icons-png.flaticon.com/512/174/174857.png](https://media3.giphy.com/media/y0NFayaBeiWEU/giphy.gif?cid=790b76112de80102f2a30c6c5ca71a9ab962b023acb59b5d&rid=giphy.gif&ct=g)" width="60px">
