@@ -1,5 +1,9 @@
-"Welcome" <img src="https://media4.giphy.com/media/65ATXZgKw9tKnJua1B/giphy.gif?cid=790b761117698cbe22d9817f75a804003a144b464dc45202&rid=giphy.gif&ct=g" width="100px">
- <img src="https://media.giphy.com/media/y0NFayaBeiWEU/giphy.gif" width="100px">
+#
+"Welcome" 
+<img src="https://media4.giphy.com/media/65ATXZgKw9tKnJua1B/giphy.gif?cid=790b761117698cbe22d9817f75a804003a144b464dc45202&rid=giphy.gif&ct=g" width="100px">
+<img src="https://media.giphy.com/media/y0NFayaBeiWEU/giphy.gif" width="200px">
+ 
+ #
 
 Hello, I am a junior developer who is enthusiastic about it, a lover of technology and learning new things and wanting to further strengthen my knowledge and gain experience in the area of web, mobile and cybersecurity technology.
 
