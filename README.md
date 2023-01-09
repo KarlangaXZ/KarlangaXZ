@@ -1,5 +1,5 @@
-#
-<h1 style="margin:auto;">Welcome</h1>
+
+<h1 style="margin:10px 0;">Welcome</h1>
 
 <img src="https://media.giphy.com/media/y0NFayaBeiWEU/giphy.gif" width="200px"> <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200px">
  
