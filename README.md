@@ -18,8 +18,8 @@ Contact me:
 
 #
 
-<img src="https://media.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif" width="100px"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100px">
-<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100px"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="100px">
+<img src="https://media.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif" width="100px"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100px">
+<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100px">
 
 
 
