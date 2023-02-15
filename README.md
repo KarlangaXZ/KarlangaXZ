@@ -18,8 +18,7 @@ Contact me:
 
 #
 
-<img src="https://media.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif" width="180px"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="180px">
-<img src="https://media.giphy.com/media/zbMRZx113HKBkeCwrm/giphy.gif" width="180px">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="180px"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="180px">
 
 
 
