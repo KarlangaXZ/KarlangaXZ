@@ -18,7 +18,7 @@ Contact me:
 
 #
 
-<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="180px"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="180px">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="180px"> <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" width="180px">
 
 
 
