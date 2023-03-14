@@ -1,7 +1,7 @@
 
 <h1>Welcome / Bienvenido</h1>
 
-<img src="https://media.giphy.com/media/y0NFayaBeiWEU/giphy.gif" width="200px"> <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200px"> <img 
+<img src="https://media.giphy.com/media/y0NFayaBeiWEU/giphy.gif" width="200px"> <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200px">
  
  #
 
