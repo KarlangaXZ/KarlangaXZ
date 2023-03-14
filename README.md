@@ -18,7 +18,7 @@ Contact me:
 
 #
 
-<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="180px"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="180px"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE3Q0hqa7f5qAOF6mtf_kAsx_3QcHGE53ICA&usqp=CAU" width="180px">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="125px"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="125px"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE3Q0hqa7f5qAOF6mtf_kAsx_3QcHGE53ICA&usqp=CAU" width="125px">
 
 
 
