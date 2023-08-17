@@ -15,9 +15,9 @@ I am web developer who is enthusiastic about it, a lover of technology and learn
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"  />
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw04eZ98-GOemqmcbHvZejdE&ust=1692333794930000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPja4ufw4oADFQAAAAAdAAAAABAE"  />
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
 
 ###
 
