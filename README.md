@@ -8,10 +8,6 @@ I am a junior developer who is enthusiastic about it, a lover of technology and 
 
 #
 
-Soy un desarrollador junior entusiasta por la misma, amante a la tecnologia y aprender cosas nueva y con ganas de reforzar mas mis conocimientos y conseguir experiencia en el area de tecnologia web, movil e ciberseguridad.
-
-#
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=KarlangaXZ" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=KarlangaXZ" height="150" alt="languages graph"  />
