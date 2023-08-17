@@ -4,7 +4,7 @@
 ###
 
 
-I am a junior developer who is enthusiastic about it, a lover of technology and learning new things and wanting to further strengthen my knowledge and gain experience in the area of web, mobile and cybersecurity technology.
+I am web developer who is enthusiastic about it, a lover of technology and learning new things and wanting to further strengthen my knowledge and gain experience in the area of web, mobile and cybersecurity technology.
 
 #
 
