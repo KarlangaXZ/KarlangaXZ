@@ -15,7 +15,7 @@ I am web developer who is enthusiastic about it, a lover of technology and learn
 
 ###
 
-<img align="right" height="150" src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"  />
+<img align="right" height="150" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"  />
 
 ###
 
