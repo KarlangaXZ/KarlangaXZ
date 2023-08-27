@@ -7,7 +7,7 @@
 I am web developer who is enthusiastic about it, a lover of technology and learning new things and wanting to further strengthen my knowledge and gain experience in the area of web, mobile, desktop app and cybersecurity technology.
 
 <div align="center">
-<img height="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  /> 
+<img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  /> 
 </div>
 #
 
