@@ -37,6 +37,6 @@ I am developer who is enthusiastic about it, a lover of technology and learning 
 ### 😂 Dev Meme
 
 <div align="center">
-<img height="200" src="(https://assets.pinterest.com/ext/embed.html?id=817684876112215807)"  /> 
+<img height="200" src="https://assets.pinterest.com/ext/embed.html?id=817684876112215807" /> 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
