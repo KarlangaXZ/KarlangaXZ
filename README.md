@@ -35,6 +35,8 @@ I am developer who is enthusiastic about it, a lover of technology and learning 
 ![](https://github-contributor-stats.vercel.app/api?username=KarlangaXZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Dev Meme
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=817684876112215807" height="588" width="345" frameborder="0" scrolling="no" ></iframe>
 
+<div align="center">
+<img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://assets.pinterest.com/ext/embed.html?id=817684876112215807)"  /> 
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
