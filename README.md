@@ -34,9 +34,4 @@ I am developer who is enthusiastic about it, a lover of technology and learning 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KarlangaXZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Dev Meme
-
-<div align="center">
-<img height="200" src="https://file.forms.app/sitefile/funny-developer-memes.jpeg" /> 
-</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
