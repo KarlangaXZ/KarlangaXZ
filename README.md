@@ -9,7 +9,7 @@ I am developer who is enthusiastic about it, a lover of technology and learning 
 <div align="center">
 <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  /> 
 </div>
-#
+
 
 # 💫 About Me:
 🔭 I am working on some projects in my university career related to programming logic, database, algorithms, etc.<br><br>👯 I want to collaborate on projects that give me better understanding and growth as a fullstack, to improve my design and logic for future projects I have at hand.<br><br>🌱 Currently learning more in depth the language of C++, Javascript, also HTML and CSS<br>
