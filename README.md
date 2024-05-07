@@ -37,7 +37,6 @@ I am developer who is enthusiastic about it, a lover of technology and learning 
 ### 😂 Dev Meme
 
 <div align="center">
-<img height="200" src="![image](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/b55f1630-31e8-4e5b-90e1-693c090985f4)
-" /> 
+<img height="200" src="https://file.forms.app/sitefile/funny-developer-memes.jpeg" /> 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
