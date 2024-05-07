@@ -35,7 +35,7 @@ I am developer who is enthusiastic about it, a lover of technology and learning 
 ![](https://github-contributor-stats.vercel.app/api?username=KarlangaXZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='[https://randommeme-five.vercel.app/](https://assets.pinterest.com/ext/embed.html?id=81768487611221580)' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KarlangaXZ&icon=3&color=1)](https://visitcount.itsvg.in)
