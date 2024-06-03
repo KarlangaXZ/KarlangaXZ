@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Carlos Linares</h1>
 <h3 align="center">A passionate Web developer from Dominican Republic</h3>
 
-![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/3145ff25-a387-46ba-a3fd-bb06383ab890)
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/f5dfb3bb-e422-4b7f-aa6a-5057e12e8813)
-![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/34d12cbd-4c4d-40fd-94b9-42df7316b315)
 
 # 💫 About Me:
-🔭 I am working on some projects in my university career related to programming logic, database, algorithms, etc.<br><br>👯 I want to collaborate on projects that give me better understanding and growth as a fullstack, to improve my design and logic for future projects I have at hand.<br><br>⚡I like video games and animated series. <br>
+🔭 I am working on some projects in my university career related to programming logic, database, algorithms, etc.<br><br>👯 I want to collaborate on projects that give me better understanding and growth as a fullstack, to improve my design and logic for future projects I have at hand.<br><br>⚡I like video games and animated series.<br>
 ![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/02b6f360-8a36-4f24-acd2-2ae0245a5afa)
 ![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/ac00ee27-59b0-448e-9a38-10d71c640ed5)
 ![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/0d04cda3-d659-4981-9b35-6d5c48be6143)
