@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Linares</h1>
 <h3 align="center">A passionate Web developer from Dominican Republic</h3>
 
-  ![octocat-1717453314908 ](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/9fc7e98e-2b14-4999-a8bf-68a877bb9662/width=40 )
+  ![octocat-1717453314908 ](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/9fc7e98e-2b14-4999-a8bf-68a877bb9662/?width="40" )
 
 
 # 💫 About Me:
