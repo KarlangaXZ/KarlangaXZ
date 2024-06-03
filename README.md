@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos Linares</h1>
 <h3 align="center">A passionate Web developer from Dominican Republic</h3>
 
+![octocat-1717453314908](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/9fc7e98e-2b14-4999-a8bf-68a877bb9662)
+
+
 # 💫 About Me:
 🔭 I am working on some projects in my university career related to programming logic, database, algorithms, etc.<br><br>👯 I want to collaborate on projects that give me better understanding and growth as a fullstack, to improve my design and logic for future projects I have at hand.<br><br>⚡I like video games and animated series.
 
