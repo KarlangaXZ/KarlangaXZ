@@ -25,6 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karlangaxz&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/e321da84-f952-4bc9-bf46-0f3f3b9c354c)
+![218265814-3084a4ba-809c-4135-afc0-8685d0f634b3](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/4ed92bc7-9ff1-4f99-8cc0-b92927323f15)
 
 
 ---
