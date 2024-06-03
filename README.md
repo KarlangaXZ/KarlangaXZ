@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 🔭 I am working on some projects in my university career related to programming logic, database, algorithms, etc.<br><br>👯 I want to collaborate on projects that give me better understanding and growth as a fullstack, to improve my design and logic for future projects I have at hand.<br><br>⚡I like video games and animated series.<br>
-![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/02b6f360-8a36-4f24-acd2-2ae0245a5afa)
+![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/02b6f360-8a36-4f24-acd2-2ae0245a5afa) <br>
 ![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/ac00ee27-59b0-448e-9a38-10d71c640ed5)
 ![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/0d04cda3-d659-4981-9b35-6d5c48be6143)
 
@@ -24,8 +24,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Karlangaxz&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karlangaxz&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Karlangaxz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/e321da84-f952-4bc9-bf46-0f3f3b9c354c)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Karlangaxz&icon=5&color=0)](https://visitcount.itsvg.in)
