@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Linares</h1>
-<h3 align="center">A passionate Web developer from Dominican Republic</h3> <a href="https://www.flaticon.es/icono-gratis/bandera_14010021" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.es/icono-gratis/bandera_14010021" width="40" height="40"/> </a>
+<h3 align="center">A passionate Web developer from Dominican Republic</h3> <a href="https://www.flaticon.es/icono-gratis/bandera_14010021" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/86cad07e-1a9e-488f-8d57-15203a18a82c)
+" width="40" height="40"/> </a>
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/f5dfb3bb-e422-4b7f-aa6a-5057e12e8813)
 
