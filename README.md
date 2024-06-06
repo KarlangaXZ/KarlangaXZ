@@ -28,6 +28,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Karlangaxz&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true) <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Karlangaxz&theme=blue-green&hide_border=false)<br/>
 
+![KarlangaXZ's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Karlangaxz&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=blue&color=green&line=white&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
 
 ![218265814-3084a4ba-809c-4135-afc0-8685d0f634b3](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/4ed92bc7-9ff1-4f99-8cc0-b92927323f15)
