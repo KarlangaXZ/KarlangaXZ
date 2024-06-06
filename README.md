@@ -21,7 +21,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Karlangaxz&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karlangaxz&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact_width=50)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karlangaxz&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Karlangaxz&theme=blue-green&hide_border=false)<br/>
 
 
