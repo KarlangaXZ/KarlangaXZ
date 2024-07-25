@@ -19,7 +19,7 @@
 # 💻 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,bootstrap,git,angular,figma,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,git,figma,vscode,visualstudio" />
   </a>
 </p>
 
