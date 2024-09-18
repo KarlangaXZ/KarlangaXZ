@@ -3,6 +3,7 @@
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/f5dfb3bb-e422-4b7f-aa6a-5057e12e8813)
 
+
 # 💫 About Me:
 🔭 I am working on some projects in my university career related to programming logic, database, algorithms, etc.<br><br>👯 I want to collaborate on projects that give me better understanding and growth as a fullstack, to improve my design and logic for future projects I have at hand.<br><br>⚡I like video games and animated series.<br>
 ![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/02b6f360-8a36-4f24-acd2-2ae0245a5afa) <br><br>
@@ -27,7 +28,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karlangaxz&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
 ![](https://github-readme-stats.vercel.app/api?username=Karlangaxz&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true) <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Karlangaxz&theme=blue-green&hide_border=false)<br/>
-
+<div align="center"> 
 
 ![218265814-3084a4ba-809c-4135-afc0-8685d0f634b3](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/4ed92bc7-9ff1-4f99-8cc0-b92927323f15)
 
@@ -36,3 +37,5 @@
 [![](https://visitcount.itsvg.in/api?id=Karlangaxz&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
