@@ -13,7 +13,7 @@
 ![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/ac00ee27-59b0-448e-9a38-10d71c640ed5)
 ![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/0d04cda3-d659-4981-9b35-6d5c48be6143)
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/carlosjlinares"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosjlinares" height="30" width="40" /></a>
 <a href="https://instagram.com/ikarlangaxz"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikarlangaxz" height="30" width="40" /></a>
