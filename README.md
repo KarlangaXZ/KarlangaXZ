@@ -31,9 +31,14 @@
 </p>
 
 # 📊 GitHub Stats:
+<a href="https://github.com/KarlangaXZ/convoychat">
+  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarlangaXZ&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a> <br>
+<a href="https://github.com/KarlangaXZ/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KarlangaXZ&theme=radical" />
+</a> <br>
 
-![](https://github-readme-stats.vercel.app/api?username=Karlangaxz&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true) <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Karlangaxz&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Karlangaxz&theme=radical&hide_border=false)<br/>
 <div align="center"> 
 
 ![218265814-3084a4ba-809c-4135-afc0-8685d0f634b3](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/4ed92bc7-9ff1-4f99-8cc0-b92927323f15)
