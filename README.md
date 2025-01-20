@@ -26,7 +26,7 @@
 # 🌐 Socials:
 <p align="center">
 <a href="https://linkedin.com/in/carlosjlinares"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosjlinares" height="auto" width="35"  /></a>
-<a href="https://instagram.com/ikarlangaxz"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikarlangaxz" height="auto" width="35" /></a>
+<a href="https://instagram.com/karlangaxz"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikarlangaxz" height="auto" width="35" /></a>
 <a href="https://discord.gg/450375779977658369"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="450375779977658369" height="auto" width="35" /></a>
 </p>
 <br>
