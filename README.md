@@ -28,13 +28,14 @@
 <a href="https://linkedin.com/in/carlosjlinares"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosjlinares" height="auto" width="35"  /></a>
 <a href="https://instagram.com/karlangaxz"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikarlangaxz" height="auto" width="35" /></a>
 <a href="https://discord.gg/450375779977658369"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="450375779977658369" height="auto" width="35" /></a>
+<a href="https://codepen.io/karlangaxz"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CodePen-Dark.svg" alt="450375779977658369" height="auto" width="35" /></a>
 </p>
 <br>
 
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,bootstrap,cs,git,mongodb,mysql,vscode" />
   </a>
 </p>
 <br>
