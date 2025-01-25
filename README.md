@@ -18,7 +18,7 @@
 ![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/ac00ee27-59b0-448e-9a38-10d71c640ed5)
 ![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/0d04cda3-d659-4981-9b35-6d5c48be6143) <br>
 
-![FititauranXZ](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVrM3h1N2tsdGZtaDBmZnRjY2VnaHR5NHp2NGk4a3l2dndydmdocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/psmk2jPQD9SehTG3bE/giphy.gif)<br>
+![Batman](https://github.com/user-attachments/assets/229e8db6-1d25-45f5-9d42-c04f8fd927b1)<br>
 ![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/0d04cda3-d659-4981-9b35-6d5c48be6143)
 
 <div>
@@ -50,11 +50,13 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Karlangaxz&theme=radical&hide_border=false)<br/>
 
+![giphy](https://github.com/user-attachments/assets/c6181990-7079-4a6d-b21d-76bb80dd968c)
 
-![FititauranXZ](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRnYzFrZGQya2s3c3V2NWNnMzRrMXBjeWxndWM2OGV0cTM1dWZxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ujkHl361tuZ5fPTwcT/giphy.gif)
 
 
 
 
 [![](https://visitcount.itsvg.in/api?id=Karlangaxz&icon=5&color=0)](https://visitcount.itsvg.in)
+
+
 </div>
