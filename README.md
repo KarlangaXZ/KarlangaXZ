@@ -54,9 +54,6 @@
 ![giphy](https://github.com/user-attachments/assets/c6181990-7079-4a6d-b21d-76bb80dd968c)
 
 
-
-
-
 [![](https://visitcount.itsvg.in/api?id=Karlangaxz&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
