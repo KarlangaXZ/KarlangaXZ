@@ -1,5 +1,9 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Carlos Linares</h1>
-<h3 align="center">FullStack Developer </h3> <br> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=1DC7DF&background=FFFFFF00&random=true&width=480&height=65&lines=+FullStack+Developer+)](https://git.io/typing-svg)
+
+</div>
 
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/f5dfb3bb-e422-4b7f-aa6a-5057e12e8813)
