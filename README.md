@@ -36,10 +36,26 @@
 </p>
 <br>
 
-# 💻 Tech Stack:
+# 🖥️ Frontend Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,java,cs,dotnet,php,git,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react" />
+  </a>
+</p>
+<br>
+
+# ⚙️ Backend Stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,java,php,express,mysql,sqlite,mongodb,postgres" />
+  </a>
+</p>
+<br>
+
+# 🛠️ Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman,figma" />
   </a>
 </p>
 <br>
