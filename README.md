@@ -39,7 +39,7 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,java,cs,dotnet,git,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,java,cs,dotnet,php,git,mysql" />
   </a>
 </p>
 <br>
