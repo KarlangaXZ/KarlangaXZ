@@ -39,7 +39,7 @@
 # 🖥️ Frontend Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,wordpress&perline=4" />
   </a>
 </p>
 <br>
@@ -55,7 +55,7 @@
 # 🛠️ Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman,figma&perline=3" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,rider,vite,git,github,postman,figma&perline=3" />
   </a>
 </p>
 <br>
