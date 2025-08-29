@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Carlos Linares</h1>
+<h1 align="center">Hi 👋🏿, I'm Carlos Linares</h1>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=DFDCDC&background=FFFFFF00&random=true&width=480&height=65&lines=+FullStack+Developer+)](https://git.io/typing-svg)
 
