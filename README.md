@@ -70,11 +70,9 @@
 </a>
   <br>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KarlangaXZ&theme=github-compact)](https://github.com/KarlangaXZ/github-readme-activity-graph)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Karlangaxz&theme=radical&hide_border=false)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Karlangaxz&theme=radical&hide_border=false)<br/>
-
-[![](https://visitcount.itsvg.in/api?id=Karlangaxz&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=KarlangaXZ&bg_color=131422&color=da3c7d&line=da3c7d&point=c4ece8&area=true&hide_border=false)](https://github.com/KarlangaXZ/github-readme-activity-graph)
 
 
 </div>
