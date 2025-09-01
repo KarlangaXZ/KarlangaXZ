@@ -67,7 +67,10 @@
 </a> <br>
 <a href="https://github.com/KarlangaXZ/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KarlangaXZ&theme=radical" />
-</a> <br>
+</a>
+  <br>
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KarlangaXZ&theme=github-compact)](https://github.com/KarlangaXZ/github-readme-activity-graph)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Karlangaxz&theme=radical&hide_border=false)<br/>
 
