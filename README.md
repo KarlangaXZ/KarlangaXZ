@@ -47,7 +47,7 @@
 # ⚙️ Backend Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,java,php,express,mysql,sqlite,mongodb,postgres&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,java,express,aws,mysql,sqlite,mongodb,postgres&perline=5" />
   </a>
 </p>
 <br>
