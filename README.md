@@ -74,5 +74,7 @@
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=KarlangaXZ&bg_color=131422&color=da3c7d&line=da3c7d&point=87e792&area=true&hide_border=false)](https://github.com/KarlangaXZ/github-readme-activity-graph)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KarlangaXZ&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KarlangaXZ&theme=radical)
 
 </div>
