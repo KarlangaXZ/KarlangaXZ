@@ -5,7 +5,6 @@
 
 </div>
 
-
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/KarlangaXZ/KarlangaXZ/assets/81537142/f5dfb3bb-e422-4b7f-aa6a-5057e12e8813)
 
 
