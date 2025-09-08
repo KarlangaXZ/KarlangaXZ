@@ -51,6 +51,14 @@
 </p>
 <br>
 
+# 🎮 Game Stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot&perline=5" />
+  </a>
+</p>
+<br>
+
 # 🛠️ Tools:
 <p align="center">
   <a href="https://skillicons.dev">
