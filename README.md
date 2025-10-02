@@ -38,7 +38,7 @@
 # 🖥️ Frontend Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,wordpress&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,vue,wordpress&perline=4" />
   </a>
 </p>
 <br>
