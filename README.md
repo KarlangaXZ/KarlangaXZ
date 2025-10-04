@@ -46,7 +46,7 @@
 # ⚙️ Backend Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,java,express,cpp,aws,mysql,sqlite,mongodb,postgres&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,java,express,cpp,aws,mysql,sqlite,mongodb,postgres&perline=4" />
   </a>
 </p>
 <br>
@@ -62,7 +62,7 @@
 # 🛠️ Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,rider,powershell,vite,git,github,postman,figma&perline=5" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,rider,powershell,vite,git,github,postman,figma&perline=4" />
   </a>
 </p>
 <br>
