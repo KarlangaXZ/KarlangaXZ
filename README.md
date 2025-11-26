@@ -38,7 +38,7 @@
 # 🖥️ Frontend Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,vue,wordpress&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,wordpress&perline=3" />
   </a>
 </p>
 <br>
@@ -46,7 +46,7 @@
 # ⚙️ Backend Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,java,cs,dotnet,cpp,aws,mysql,sqlite,mongodb,postgres&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,java,cs,dotnet,mysql,sqlite,mongodb,postgres&perline=5" />
   </a>
 </p>
 <br>
