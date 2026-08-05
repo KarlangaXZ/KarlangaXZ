@@ -27,7 +27,7 @@ I am a Fullstack Developer focused on delivering high-quality, scalable solution
 ### 🌐 Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,bootstrap,wordpress&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,tailwind,bootstrap&perline=8" />
   </a>
 </p>
 
