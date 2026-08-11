@@ -91,6 +91,10 @@ Built using **Python, FastAPI, and PDF processing tools**, with both web and des
 
 ---
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=KarlangaXZ&layout=compact&langs_count=10&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=KarlangaXZ&layout=compact&langs_count=10&theme=blue_navy)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KarlangaXZ&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=KarlangaXZ&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=blue_navy)
+
 > 💡 *Always learning. Always building.*
 
 ## 📩 Let's Build Something Great Together
