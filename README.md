@@ -1,8 +1,8 @@
-<img width="380" height="200" alt="giphy" src="https://github.com/user-attachments/assets/2d0846d8-0b19-4d11-bf43-2c0305162909" />
+<img width="320" height="200" alt="giphy" src="https://github.com/user-attachments/assets/2d0846d8-0b19-4d11-bf43-2c0305162909" />
 
-<img width="380" height="200" alt="giphy" src="https://github.com/user-attachments/assets/847559b9-6e61-4f3a-b7b9-f7b96220969b" />
+<img width="320" height="200" alt="giphy" src="https://github.com/user-attachments/assets/847559b9-6e61-4f3a-b7b9-f7b96220969b" />
 
-<img width="380" height="200" alt="giphy" src="https://github.com/user-attachments/assets/6928317d-dae4-4faa-bc2d-379411df74d6" />
+<img width="320" height="200" alt="giphy" src="https://github.com/user-attachments/assets/6928317d-dae4-4faa-bc2d-379411df74d6" />
 
 
 # 👋 Hi, I'm Carlos Linares 
