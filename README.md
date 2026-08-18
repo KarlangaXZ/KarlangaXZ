@@ -1,5 +1,5 @@
-<img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/2d0846d8-0b19-4d11-bf43-2c0305162909" />
-<img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/847559b9-6e61-4f3a-b7b9-f7b96220969b" />
+<img width="380" height="200" alt="giphy" src="https://github.com/user-attachments/assets/2d0846d8-0b19-4d11-bf43-2c0305162909" />
+<img width="380" height="200" alt="giphy" src="https://github.com/user-attachments/assets/847559b9-6e61-4f3a-b7b9-f7b96220969b" />
 
 # 👋 Hi, I'm Carlos Linares 
 
