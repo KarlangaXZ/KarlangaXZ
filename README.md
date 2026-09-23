@@ -4,7 +4,6 @@
 
 <img width="280" height="200" alt="giphy" src="https://github.com/user-attachments/assets/6928317d-dae4-4faa-bc2d-379411df74d6" />
 
-
 # 👋 Hi, I'm Carlos Linares 
 
 ### 💻 Full Stack Developer | Development Analyst
