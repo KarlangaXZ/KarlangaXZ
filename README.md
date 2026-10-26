@@ -20,7 +20,7 @@ I enjoy turning business requirements into practical software solutions and lear
 
 - 💻 **Full Stack Development** — Building applications from user interfaces to backend services and databases.
 - ⚙️ **Backend Development** — Developing business logic and REST APIs using C# and .NET.
-- 🗄️ **Database Development** — Working with Oracle, SQL, PL/SQL, Entity Framework Core, and relational database design.
+- 🗄️ **Database Development** — Working with Oracle, SQL, PL/SQL, MongoDB, Entity Framework Core, and relational database design.
 - 🌐 **Frontend Development** — Creating responsive interfaces with Vue.js, React, JavaScript, and TypeScript.
 - 🔗 **API Integration** — Connecting applications and services through REST APIs.
 - 🛠️ **Software Maintenance** — Debugging, improving, and maintaining existing business applications.
