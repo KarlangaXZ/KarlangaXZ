@@ -86,7 +86,7 @@ Built using **Python, FastAPI, and PDF processing tools**, with both web and des
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=vscode&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux&logoColor=white)
 ![Claude](https://img.shields.io/badge/claude%20Code-orange?style=for-the-badge&logo=claude&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatgpt-gray?style=for-the-badge&logo=openia&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
