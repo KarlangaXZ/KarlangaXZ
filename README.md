@@ -1,72 +1,45 @@
-<img width="280" height="200" alt="giphy" src="https://github.com/user-attachments/assets/2d0846d8-0b19-4d11-bf43-2c0305162909" />
+# 👋 Hi, I'm Carlos Linares
 
-<img width="240" height="200" alt="giphy" src="https://github.com/user-attachments/assets/e9cbce11-910f-44b3-b208-67f9a50af90f" />
+**Full Stack Developer · Development Analyst · Dominican Republic 🇩🇴**
 
-<img width="280" height="200" alt="giphy" src="https://github.com/user-attachments/assets/6928317d-dae4-4faa-bc2d-379411df74d6" />
+I build and maintain business applications with **C#, .NET, Oracle, JavaScript, and Vue.js**. My work spans responsive interfaces, REST APIs, and database design, from translating business requirements into features to improving existing applications.
 
+[Portfolio](https://karxz-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/carlosjlinares) · [Repositories](https://github.com/KarlangaXZ?tab=repositories)
 
-# 👋 Hi, I'm Carlos Linares 
-
-### 💻 Full Stack Developer | Development Analyst
-
-I'm a Full Stack Developer based in the Dominican Republic 🇩🇴, focused on building reliable, maintainable, and scalable software solutions.
-
-Currently, I work with **C#, .NET, Oracle, JavaScript, and Vue.js**, developing and maintaining business applications while continuously expanding my knowledge of software architecture, databases, APIs, and modern development practices.
-
-I enjoy turning business requirements into practical software solutions and learning through real-world projects.
-
----
-
-## 🚀 What I Do
-
-- 💻 **Full Stack Development** — Building applications from user interfaces to backend services and databases.
-- ⚙️ **Backend Development** — Developing business logic and REST APIs using C# and .NET.
-- 🗄️ **Database Development** — Working with Oracle, SQL, PL/SQL, MongoDB, Entity Framework Core, and relational database design.
-- 🌐 **Frontend Development** — Creating responsive interfaces with Vue.js, React, JavaScript, and TypeScript.
-- 🔗 **API Integration** — Connecting applications and services through REST APIs.
-- 🛠️ **Software Maintenance** — Debugging, improving, and maintaining existing business applications.
+<p align="center">
+  <img width="280" height="200" alt="giphy" src="https://github.com/user-attachments/assets/2d0846d8-0b19-4d11-bf43-2c0305162909" />
+  <img width="240" height="200" alt="giphy" src="https://github.com/user-attachments/assets/e9cbce11-910f-44b3-b208-67f9a50af90f" />
+  <img width="280" height="200" alt="giphy" src="https://github.com/user-attachments/assets/6928317d-dae4-4faa-bc2d-379411df74d6" />
+</p>
 
 ---
 
 ## 🏆 Featured Projects
 
-### 📚 Biblioteca Escolar
-Desktop library management system developed with **C#, .NET WinForms, Entity Framework Core, and Oracle Database**.
+| Project | What it does | Stack |
+| --- | --- | --- |
+| 📦 [Mini Orders](https://github.com/KarlangaXZ/Challenge---Mini-Orders-App) | Manages orders and clients through a responsive interface with search and pagination. | Vue.js, TypeScript, .NET, REST API |
+| 📄 [PDF Duplicate Checker](https://github.com/KarlangaXZ/Pdf-duplicate-checker) | Finds duplicate records in PDFs through web and desktop versions. | Python, FastAPI |
+| 📚 Biblioteca Escolar | Manages library users, books, categories, loans, and returns in a desktop application. | C#, WinForms, EF Core, Oracle |
+| 🧾 [FacturasPDF](https://github.com/KarlangaXZ/FacturasPDF) | Generates PDF invoices. | JavaScript, Tailwind CSS |
+| 💬 [KarXZ Chat](https://github.com/KarlangaXZ/llama3-KarXZChat-ReactNative) | Connects a mobile chat interface to Ollama to run Llama 3 locally. | React Native, TypeScript, Ollama |
 
-Features:
-- User and librarian management
-- Book and category management
-- Loan and return management
-- CRUD operations
-- Oracle database persistence
-- Object-Oriented Programming principles
+### 🧪 Recent public repositories
 
-### 📦 Mini Orders
-Full Stack order management application built with **Vue.js, TypeScript, .NET, and REST APIs**.
-
-Features:
-- Order management
-- Client management
-- Search and pagination
-- REST API architecture
-- Responsive frontend
-
-### 📄 PDF Duplicate Checker
-Application designed to analyze PDF documents and detect duplicated records.
-
-Built using **Python, FastAPI, and PDF processing tools**, with both web and desktop implementations.
+- [Aq. Rose](https://github.com/KarlangaXZ/Aq.-Rose) · JavaScript project.
+- [30 Day Python](https://github.com/KarlangaXZ/30-day-python) · Python practice.
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## ⚙️ Backend
+### ⚙️ Backend
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 🌐 Frontend
+### 🌐 Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -74,12 +47,12 @@ Built using **Python, FastAPI, and PDF processing tools**, with both web and des
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🗄️ Databases
+### 🗄️ Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=googlecloudstorage&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🛠️ Tools
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
@@ -93,23 +66,19 @@ Built using **Python, FastAPI, and PDF processing tools**, with both web and des
 
 ## 📈 Currently Focused On
 
-- Advanced C# and .NET development
-- Oracle Database & PL/SQL
-- Vue.js
-- REST API architecture
-- Clean Code and software architecture
-- Building production-ready Full Stack applications
+- Designing maintainable REST APIs with C# and .NET.
+- Deepening my Oracle and PL/SQL skills.
+- Building responsive Vue.js interfaces with TypeScript.
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=KarlangaXZ&layout=compact&langs_count=10&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=KarlangaXZ&layout=compact&langs_count=10&theme=blue_navy)
+## 📊 GitHub Activity
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=KarlangaXZ&layout=compact&langs_count=10&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=KarlangaXZ&layout=compact&langs_count=10&theme=blue_navy)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KarlangaXZ&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=KarlangaXZ&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=blue_navy)
 
-> 💡 *Always learning. Always building.*
-
-## 📩 Let's Build Something Great Together
-Have a project in mind or a technical challenge to solve? Feel free to reach out!
+## 📩 Contact
 
 <p align="left">
 <a href="https://linkedin.com/in/carlosjlinares" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" /></a>
