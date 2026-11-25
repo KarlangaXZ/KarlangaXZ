@@ -4,7 +4,6 @@
 
 I build and maintain business applications with **C#, .NET, Oracle, JavaScript, and Vue.js**. My work spans responsive interfaces, REST APIs, and database design, from translating business requirements into features to improving existing applications.
 
-
 [Portfolio](https://karxz-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/carlosjlinares) · [Repositories](https://github.com/KarlangaXZ?tab=repositories)
 
 <p align="center">
