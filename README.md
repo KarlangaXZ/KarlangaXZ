@@ -6,6 +6,7 @@ I build and maintain business applications with **C#, .NET, Oracle, JavaScript, 
 
 [Portfolio](https://karxz-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/carlosjlinares) · [Repositories](https://github.com/KarlangaXZ?tab=repositories)
 
+
 <p align="center">
   <img width="280" height="200" alt="giphy" src="https://github.com/user-attachments/assets/2d0846d8-0b19-4d11-bf43-2c0305162909" />
   <img width="240" height="200" alt="giphy" src="https://github.com/user-attachments/assets/e9cbce11-910f-44b3-b208-67f9a50af90f" />
