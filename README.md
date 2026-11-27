@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Carlos Linares
 
+
 **Full Stack Developer · Development Analyst · Dominican Republic 🇩🇴**
 
 I build and maintain business applications with **C#, .NET, Oracle, JavaScript, and Vue.js**. My work spans responsive interfaces, REST APIs, and database design, from translating business requirements into features to improving existing applications.
